@@ -21,7 +21,7 @@
 	<meta name="copyright" content="Copyright © 2019-<?= YEAR; ?> Frank Martin Moreno Alburqueque">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="og:title" content="API Reniec | Frank Martion Moreno Alburqueque | WebMaster - Programador Web">
-	<meta name="og:image" content="<?= FMMA; ?>/images/logo.png">
+	<meta name="og:image" content="<?= FMMA; ?>images/logo.png">
 	<meta name="og:site_name" content="<?= TIPO; ?>">
 	<meta name="og:description" content="Copyright © 2019-<?= YEAR; ?> Desarrollado por: Frank Moreno Alburqueque Todos los derechos reservados.
 	    Tipo de Licencia: Solo uso personal
