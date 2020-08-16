@@ -3,6 +3,5 @@
 	define('TIPO', 'API - Geo-Localización');
 	define('URL', 'http://localhost:81/api_geoip/');
 	define('FMMA', 'https://frankmorenoalburqueque.com/');
-	define('DIRMOR', 'MORENOAG/');
 	define('DIRACT', 'ACTIONAG/');
 	define('YEAR', date('Y'));
